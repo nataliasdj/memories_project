@@ -1,4 +1,4 @@
-//starting point of server application
+//first starting point of server application
 import express from 'express';
 import bodyParser from 'body-parser';
 import mongoose from 'mongoose';
